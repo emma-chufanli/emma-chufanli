@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Emma (Chufan Li) 👋
 
-<!--
-**emma-chufanli/emma-chufanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of IT (Computing) student at the University of Melbourne, graduating 2027.
+I enjoy working where technology meets product: understanding users,
+shaping requirements, and building things that ship.
 
-Here are some ideas to get you started:
+### 🔭 Interests
+- Cloud & AI products
+- Product management and IT consulting
+- Software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **Biosignals Diagnostics** (internship): customer portal, API specs, Agile delivery with Git/Jira
+- **Shanghai Yiqing Technology**: cloud gaming platform research & documentation
+
+### 🛠 Tools
+Java · Python · SQL / PostGIS · TypeScript · Tableau · Git · Jira
