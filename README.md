@@ -11,7 +11,7 @@ shaping requirements, and building things that ship.
 
 ### 💼 Experience
 - **Biosignals Diagnostics** (internship): customer portal, API specs, Agile delivery with Git/Jira
-- **Shanghai Yiqing Technology**: cloud gaming platform research & documentation
+- **Shanghai Yiqing Technology** (product): cloud gaming platform research, prototyping, and product testing
 
 ### 🛠 Tools
 Java · Python · SQL / PostGIS · TypeScript · Tableau · Git · Jira
